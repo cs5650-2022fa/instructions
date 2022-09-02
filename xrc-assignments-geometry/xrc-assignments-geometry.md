@@ -18,7 +18,7 @@ Fall 2022, Cornell Tech
 
 ## Overview
 
-Watch the **[solution video](https://drive.google.com/file/d/1KrwbbetVQqmJpISdWUiwSs6-I_Fk-0bR/view?usp=sharing)** 
+Watch the **[solution video](https://drive.google.com/file/d/1KrwbbetVQqmJpISdWUiwSs6-I_Fk-0bR/view?usp=sharing)** (requires Cornell account).
 
 [![here](assets/images/geometry.png)](https://drive.google.com/file/d/1KrwbbetVQqmJpISdWUiwSs6-I_Fk-0bR/view?usp=sharing)
 
