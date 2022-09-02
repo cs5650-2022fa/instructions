@@ -14,6 +14,8 @@ For running unit tests, bring up the Unit Test Tool Window in Rider and then **r
 
 Your expected implementations are clearly marked with `TODO` comments across the project. Your code should go between the `<solution>` ... `</solution>` tags. You should not modify other scripts, or add code outside of the `<solution>` ... `</solution>` tags.
 
+You should not modify any of the tests or the test results. Tampering with the unit testing process in any way is considered a serious academic integrity issue.
+
 ## Assignment report
 The assignment report is automatically generated every time you push to GitHub. The report (PDF) can be found in the submission folder. The report collects your student information data and your unit test results at the time of the repository push. **This is the file you will submit on Canvas.**
 
