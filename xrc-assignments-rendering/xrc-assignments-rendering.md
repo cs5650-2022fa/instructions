@@ -18,7 +18,7 @@ Fall 2022, Cornell Tech
 
 ## Overview
 
-Watch the following videos (requires Cornell account): 
+Watch the following videos (requires Cornell account) - make sure to set the video quality to 1080p HD for viewing the different shading types: 
 * **[Solution video](https://drive.google.com/file/d/1PV-_EBJiOBZrxFkbS0r4xjowqReNTd66/view?usp=sharing)** 
 * **Explainer video** (instructor commentary and walkthrough of assignment and development setup).
 
