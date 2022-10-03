@@ -20,7 +20,7 @@ Fall 2022, Cornell Tech
 
 Watch the following videos (requires Cornell account) - make sure to set the video quality to 1080p HD for viewing the different shading types: 
 * **[Solution video](https://drive.google.com/file/d/1PV-_EBJiOBZrxFkbS0r4xjowqReNTd66/view?usp=sharing)** 
-* **Explainer video** (instructor commentary and walkthrough of assignment and development setup).
+* **[Explainer video](https://drive.google.com/file/d/1__-6yEZ4UAE0i_Hfuy7WG0JtmSwoWRYf/view?usp=sharing)** (instructor commentary and walkthrough of assignment and development setup).
 
 **Your objective is to replicate the full solution seen in the solution video.**
 
