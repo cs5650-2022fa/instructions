@@ -6,8 +6,8 @@ Repository containing assignment instructions
 | --- | --- | --- |
 | H-Geometry  | [Instructions](xrc-assignments-geometry/xrc-assignments-geometry.md) | |
 | H-Meshes  | [Instructions](xrc-assignments-meshes/xrc-assignments-meshes.md) | |
-| H-Rendering  | [Instructions](xrc-assignments-meshes/xrc-assignments-rendering.md) | |
-| H-Locomotion  | [Instructions](xrc-assignments-meshes/xrc-assignments-locomotion.md) | [Scripting API](xrc-assignments-meshes/xrc-assignments-locomotion.md) |
+| H-Rendering  | [Instructions](xrc-assignments-rendering/xrc-assignments-rendering.md) | |
+| H-Locomotion  | [Instructions](xrc-assignments-locomotion/xrc-assignments-locomotion.md) | [Scripting API](xrc-assignments-locomotion/xrc-assignments-locomotion.md) |
 
 ---
 [Submission instructions](submission-instructions/submission-instructions.md)
