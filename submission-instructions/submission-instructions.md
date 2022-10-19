@@ -8,7 +8,7 @@ Your Unity project has a folder named *Submission* inside the *Asset* folder. Th
 
 ## Unit tests
 
-The homework assignments are partially graded through unit tests. See the assignment rubric for each assignment for information on its weight. You must run **all** unit tests before pushing to GitHub, to make sure this data is included in your assignment report. If you modify your code without running the unit tests, that code change will not be reflected in your assignment report. 
+The homework assignments are partially graded through unit tests. See the assignment rubric for each assignment for information on its weight. You must run **all** unit tests before pushing to GitHub, to make sure this data is included in your submission report. If you modify your code without running the unit tests, that code change will not be reflected in your submission report. 
 
 For running unit tests, bring up the Unit Test Tool Window in Rider and then **run all unit tests**. See guidelines and keyboard shortcuts for unit tests in the [Rider documentation](https://www.jetbrains.com/help/rider/Reference_Windows_Unit_Tests.html). You will then see how many tests have failed or passed.
 
@@ -16,12 +16,12 @@ Your expected implementations are clearly marked with `TODO` comments across the
 
 You should not modify any of the tests or the test results. Tampering with the unit testing process in any way is considered a serious academic integrity issue.
 
-## Assignment report
-The assignment report is automatically generated every time you push to GitHub. The report (PDF) can be found in the submission folder. The report collects your student information data and your unit test results at the time of the repository push. **This is the file you will submit on Canvas.**
+## Submission report
+The submission report is automatically generated every time you push to GitHub. The report (PDF) can be found in the submission folder. The report collects your student information data and your unit test results at the time of the repository push. **This is the file you will submit on Canvas.**
 
 ```mermaid
 flowchart TD;
-    A[Student information]-->C[Assignment report];
+    A[Student information]-->C[Submission report];
     B[Unit tests]-->C;
 ```
 
