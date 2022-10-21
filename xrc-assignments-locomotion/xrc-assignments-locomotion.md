@@ -17,14 +17,15 @@ Fall 2022, Cornell Tech
 ## Overview
 
 Watch the **[solution video](https://drive.google.com/file/d/1q_t9Aee3dxBB-b_Me6nRJGp4qQeOhEY8/view?usp=sharing)** (requires Cornell account).
+
 ![Solution](assets/images/h-locomotion-screenshot-1.png)
 > Note: The solution video contains audio commentary, make sure to have audio turned on.
 
-> Note: Your solution video should be shorter than the video above.
+> Note: Your solution video should **not** include audio and should be shorter than the video above.
 
 Your objective is to replicate the full locomotion system seen in the solution video.
 
-**Project APK**: You will need to build your final solution to the Meta Quest, and submit the .apk file. Please refer to the Quest [building instructions)](https://developer.oculus.com/documentation/unity/unity-build/) for details on how to build your project.
+**Project APK**: You will need to build your final solution to the Meta Quest, and submit the .apk file. Please refer to the Quest [building instructions](https://developer.oculus.com/documentation/unity/unity-build/) for details on how to build your project.
 
 > ⚠️ Building the project to the Meta Quest takes time and could potentially raise unexpected issues! Please test build your project as soon as possible, and build it frequently as you progresses to make building-related debugging easier. **Please leave enough time in the end for the final build**.
 
@@ -89,6 +90,7 @@ Locomotion
         - *ContinuousTurnController* and *SnapTurnController* (Handle rotations)
 - Locomotion Visualizer
     - This game object handles the visualization of locomotion, including the ray and indicator for teleportation and the active technique name texts that are displayed on your controllers. 
+    
 ![Solution](assets/images/h-locomotion-screenshot-2.png)![Solution](assets/images/h-locomotion-screenshot-3.png)
 
 # Tasks
