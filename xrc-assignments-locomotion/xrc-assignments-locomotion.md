@@ -12,17 +12,15 @@ Fall 2022, Cornell Tech
 - Watch the solution video.
 - This assignment assumes basic knowledge of C# and fundamental Unity concepts. See the *Resources* page on Canvas for more information.
 - This assignment assumes you have set up the Unity Editor and Meta Quest headset and the development environment as required. See the *Resources* page on Canvas for more information.
-- Post your questions in the appropriate channel on the course communication platform.
+- Post your questions in the appropriate channel on the course communication platform. 
 
 ## Overview
 
 Watch the **[solution video](https://drive.google.com/file/d/1q_t9Aee3dxBB-b_Me6nRJGp4qQeOhEY8/view?usp=sharing)** (requires Cornell account).
+![Solution](assets/images/h-locomotion-screenshot-1.png)
 > Note: The solution video contains audio commentary, make sure to have audio turned on.
 
 > Note: Your solution video should be shorter than the video above.
-
-Screenshot of the VR view: (Update needed)
-[![here](assets/images/meshes.png)](https://drive.google.com/file/d/1uxtplqZLlvTTZzb9X8pjdCRNk3oZq-cD/view?usp=sharing)
 
 Your objective is to replicate the full locomotion system seen in the solution video.
 
@@ -31,6 +29,13 @@ Your objective is to replicate the full locomotion system seen in the solution v
 > ⚠️ Building the project to the Meta Quest takes time and could potentially raise unexpected issues! Please test build your project as soon as possible, and build it frequently as you progresses to make building-related debugging easier. **Please leave enough time in the end for the final build**.
 
 > **You must submit your final APK by providing a link to the APK file** on your Google Drive - make sure the file is accessible by all Cornell accounts. This link is provided in the same way as your GitHub repository and screen recording.
+
+> **You must make the following updates in your project before building your final APK** 
+>
+> Under `Edit > Project Settings > Player` replace "yourlastname" and "yournetid" in the following places:
+>
+> * Update the "Product Name" by inserting your information
+> * Update the "Package Name" by inserting your information
 
 **Screen recording**: Use the screen recording feature of the Meta Quest to capture your screen, see instructions [here](https://www.meta.com/help/quest/articles/in-vr-experiences/social-features-and-sharing/record-video-oculus/).
 
@@ -84,7 +89,7 @@ Locomotion
         - *ContinuousTurnController* and *SnapTurnController* (Handle rotations)
 - Locomotion Visualizer
     - This game object handles the visualization of locomotion, including the ray and indicator for teleportation and the active technique name texts that are displayed on your controllers. 
-
+![Solution](assets/images/h-locomotion-screenshot-2.png)![Solution](assets/images/h-locomotion-screenshot-3.png)
 
 # Tasks
 
