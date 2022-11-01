@@ -25,11 +25,11 @@ Watch the **[solution video](https://drive.google.com/file/d/1q_t9Aee3dxBB-b_Me6
 
 Your objective is to replicate the full locomotion system seen in the solution video.
 
-**Project APK**: You will need to build your final solution to the Meta Quest, and submit the .apk file. Please refer to the Quest [building instructions](https://developer.oculus.com/documentation/unity/unity-build/) for details on how to build your project.
+**Project APK**: You will need to build your final solution to the Meta Quest, and submit the .apk file. Please refer to the Quest [building instructions](https://developer.oculus.com/documentation/unity/unity-build/) for details on how to build your project. **Your APK file should go in *Assets/Builds* folder.**
 
 > ⚠️ Building the project to the Meta Quest takes time and could potentially raise unexpected issues! Please test build your project as soon as possible, and build it frequently as you progresses to make building-related debugging easier. **Please leave enough time in the end for the final build**.
 
-> **You must submit your final APK by providing a link to the APK file** on your Google Drive - make sure the file is accessible by all Cornell accounts. This link is provided in the same way as your GitHub repository and screen recording.
+> **You must submit your final APK by providing a link to the APK file** stored on your Google Drive - make sure the file is accessible by all Cornell accounts. This link is provided in the same way as your GitHub repository and screen recording.
 
 > **You must make the following updates in your project before building your final APK** 
 >
@@ -90,7 +90,7 @@ Locomotion
         - *ContinuousTurnController* and *SnapTurnController* (Handle rotations)
 - Locomotion Visualizer
     - This game object handles the visualization of locomotion, including the ray and indicator for teleportation and the active technique name texts that are displayed on your controllers. 
-    
+
 ![Solution](assets/images/h-locomotion-screenshot-2.png)![Solution](assets/images/h-locomotion-screenshot-3.png)
 
 # Tasks
