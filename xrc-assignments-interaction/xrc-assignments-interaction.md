@@ -103,7 +103,7 @@ The empty project can be built and run, and you will see the following results:
 - There is a sphere interactor attached to your right hand
 
 Some known issues:
-- The Oculus Home button for reorientation does not work in the built application. Please find a large enough space when you interact and record the video.
+- The Oculus Home button for reorientation does not work in the built application. **Please find a large enough space when you interact and record the video.**
 - The text on the tables will always render on top of other objects.
 
 > After implementation:
