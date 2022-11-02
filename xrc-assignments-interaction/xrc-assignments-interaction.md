@@ -16,9 +16,9 @@ Fall 2022, Cornell Tech
 
 ## Overview
 
-Watch the **[solution video](https://drive.google.com/file/d/1q_t9Aee3dxBB-b_Me6nRJGp4qQeOhEY8/view?usp=sharing)** (requires Cornell account).
+Watch the **[solution video](https://drive.google.com/file/d/1ylFT1NtMYhPq-bNONL7INAdsuLJag_ND/view?usp=share_link)** (requires Cornell account).
 
-![Solution](assets/images/h-locomotion-screenshot-1.png)
+![Solution](assets/images/h-interaction-screenshot-1.png)
 > Note: The solution video contains audio commentary, make sure to have audio turned on.
 
 > Note: Your solution video should **not** include audio and should be shorter than the video above.
@@ -91,7 +91,7 @@ Locomotion
         - Snap placement
         - Docking task
     
-![Solution](assets/images/h-locomotion-screenshot-2.png)![Solution](assets/images/h-locomotion-screenshot-3.png)
+![Solution](assets/images/h-interaction-screenshot-2.png)![Solution](assets/images/h-interaction-screenshot-3.png)
 
 # Tasks
 
